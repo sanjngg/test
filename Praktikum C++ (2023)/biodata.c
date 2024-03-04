@@ -12,6 +12,6 @@ printf("Masukkan jk: " );
 
 printf("%s",nama);
 printf("%i",nim);
-printf("%c",jk);
+printf("%c",jl);
 
 }
